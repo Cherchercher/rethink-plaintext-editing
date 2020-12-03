@@ -25,9 +25,9 @@ Must have:
 
 - Ability to edit text - Finished
 
-- Syntax highlights depends on file type - In Progress
+- Syntax highlights depends on file type - Finished
 
-- Persist to local storage on file change - Complete, not tested
+- Persist to local storage on file change - Complete, need more test
 
 - Scrolling - Complete
 
@@ -35,7 +35,7 @@ Nice to have:
 
 - Styling Editor - Complete
 
-- Integration test - Not Started
+- Integration test - In Progress, need more test
 
 - File Preview - In Progress, Needs styling to display alongside editor
 
